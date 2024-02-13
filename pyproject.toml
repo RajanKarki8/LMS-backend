@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "lms-backend"
 version = "0.1.0"
-description = "Library management system API with django framework"
+description = "Library management system API with django rest framework"
 authors = ["Rajan Karki <rajankarkee8@gmail.com>"]
 license = "MIT"
 readme = "README.md"
